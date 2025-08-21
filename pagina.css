@@ -1,0 +1,126 @@
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+    color: white;
+    margin: 0%;
+    
+    
+}
+    
+section{
+    background-color: white;
+    background-size: cover;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+    
+.section1{
+    background-color: #0050c3;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+}
+    
+.section2{
+    color: black;
+}
+.boton-3{
+    border: none;
+    color: white;
+    font-size: 18px;
+    position: relative;
+    right: -200x;
+    margin: 5px;
+}
+.boton-2{
+
+    background-color:  white;
+    color: #0050c3;
+    padding: 10px 20px;
+    border-radius: 40px;
+    position: relative;
+    margin: 5px;
+}
+.icono{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    fill: white;
+}
+.ingresar{
+    overflow: hidden;    
+    background-color: white;
+    border-radius: 40px;
+    display: flex;
+    width: fit-content;
+        
+}
+      
+.boton-1 input{
+border: none;
+padding: 15px 20px;
+border-radius: 40px 0 0 40px; 
+font-size: 16px
+}
+      
+      
+.ingresar button{
+        background-color: #1976d2;
+        color: white;
+        border: none;
+        padding: 15px 25px;
+        font-size: 16px;
+        border-radius: 40px;
+        margin-left: 20px;
+        border: 4px solid white;
+}
+h1{
+font-size:2.5rem;
+}
+h2{
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+    
+
+img{
+    position: relative;
+    left: 500px;
+    max-width: 100%;
+    height: 400px;
+    
+}
+input {
+border: none;
+position: relative;
+font-size: 18px;
+text-align: center;
+}
+
+#logo{
+    width: 150px; 
+    height: auto; 
+    size: 500px 88px
+    position: relative;
+    left: 20px;
+    fill: white; 
+}
+
+header{
+    background-color: #0050c3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+}
+    
+header div p{
+        text-align: left;
+        font-size: 25px;
+}
+    
+    
+footer{
+    background-color: #0050c3;
+}
